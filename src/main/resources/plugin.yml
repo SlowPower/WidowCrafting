@@ -1,5 +1,9 @@
-main: com.slowpower.widowcrafting.WidowCrafting
+main: com.slowpower.widowcrafting.Main
 name: WidowCrafting
 version: 1.0
 author: SlowPower
 
+commands:
+  admincrafting:
+  craftable:
+  recipes:
